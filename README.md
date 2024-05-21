@@ -1,0 +1,4 @@
+- print("Olá, me chamo camilo soare")👋
+- print("Tenho 25 anos de idade, nordestino, morando em santa catarina ") 😁
+- print("Atualmente estou no primeiro período de ciência da computação") 📚  
+- print("Gosto bastante de jogos, da tecnologia em sí.. sempre tive curiodidade de me aprofundar e saber como a tecnologia funciona") 🖥️
